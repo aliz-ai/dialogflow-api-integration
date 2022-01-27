@@ -1,0 +1,7 @@
+dialogflow:
+  project: norbert-liki-sandbox
+  location: us-central1
+  agent: ea56dc88-80af-4c7f-87a4-532454edd5bf
+  default_language: en
+userlike:
+  security_token: 05f9d5b0-77ba-11ec-90d6-0242ac120003

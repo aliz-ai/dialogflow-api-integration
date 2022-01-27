@@ -1,0 +1,16 @@
+{
+    "info": {
+        "approach_mode": "normal",
+        "cid": "chatbot::258:a56785fb6fb84edd890905913b0c0821",
+        "contact": {},
+        "context": {},
+        "conversation": {},
+        "widget": {}
+    },
+    "packet": {
+        "name": "message",
+        "payload": {
+            "body": "No thanks"
+        }
+    }
+}
